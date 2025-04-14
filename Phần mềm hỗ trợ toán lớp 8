@@ -261,7 +261,7 @@
 
     <!-- 1) Máy tính Toán Học -->
     <div class="container" id="calcMath">
-      <h1>Máy Tính Toán Học</h1>
+      <h1>Máy tính biểu thức và tính phương trình bậc Nhất</h1>
       <p class="note">
         Lưu ý: Nếu nhập biến số, hãy viết theo đúng dạng <em>ax+b=y</em> (hệ số
         luôn đứng trước biến).<br />
@@ -281,7 +281,7 @@
       </div>
     </div>
 
-    <!-- 2) Máy tính Tam Giác Vuông -->
+    <!-- 2) Máy tính định lý Pythagoer-->
     <div class="container" id="calcTriangle">
       <h2>Máy Tính Tam Giác Vuông</h2>
       <p>
@@ -323,7 +323,7 @@
 
     <!-- 3) Máy tính Tam Giác Trung Điểm -->
     <div class="container" id="calcMidpoint">
-      <h1>Máy Tính Tam Giác Trung Điểm</h1>
+      <h1>Máy tính đường Trung Bình của tam giác</h1>
       <p>
         Nhập giá trị: <strong>AB, BC, AC</strong> (3 cạnh của tam giác). Các giá
         trị còn lại sẽ được tự tính theo ràng buộc: <br />– D là trung điểm AB
